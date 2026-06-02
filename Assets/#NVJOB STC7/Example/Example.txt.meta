@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27dd6697fbf50634d84ddbbefbe3036a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165232
+  packageName: '#NVJOB STC7 (Custom shader for SpeedTree 7)'
+  packageVersion: 3.2
+  assetPath: Assets/#NVJOB STC7/Example/Example.txt
+  uploadId: 365260
